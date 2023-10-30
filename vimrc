@@ -5,3 +5,4 @@ set smartindent       " Enable smart-indent
 set smarttab          " Enable smart-tabs
 set softtabstop=2     " Number of spaces per Tab
 set background=dark   " Color scheme for dark background
+syntax on
